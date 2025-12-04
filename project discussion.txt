@@ -6,7 +6,7 @@ RQ ANALYSIS - https://herts365-my.sharepoint.com/:p:/g/personal/hm25abl_herts_ac
 Work done so far :
 i . Created a R code for finding correlation between age and education.num for each gender - Rejected(17 Nov)
 ii . Created a R code for finding mean for age and gender - Rejected(24 Nov)
-iii . Created a R code for finding propertionality for income of each gender for native countries like US,Mexico and India - yet to confirm(27 Nov)
-iv . we got finalized R code for finding propertionality for income of each gender for native countries like US (1 dec)
-After discusion with profesers on (1 Dec) we changed the R code to find propertionality for income of each gender only for united states.(2 dec)
+iii . Created a R code for finding proportionality for income of each gender for native countries like US, Mexico and India - yet to confirm(27 Nov)
+iv . we got finalized R code for finding proportionality for income of each gender for native countries like US (1 dec)
+After discussion with professors on (1 Dec) we changed the R code to find proportionality for income of each gender only for united states.(2 dec)
                     
