@@ -9,4 +9,7 @@ ii . Created a R code for finding mean for age and gender - Rejected(24 Nov)
 iii . Created a R code for finding proportionality for income of each gender for native countries like US, Mexico and India - yet to confirm(27 Nov)
 iv . we got finalized R code for finding proportionality for income of each gender for native countries like US (1 dec)
 After discussion with professors on (1 Dec) we changed the R code to find proportionality for income of each gender only for united states.(2 dec)
+V . Started working on final report (3 Dec)
+Vi. Partial Report files are uploaded (8 Dec)
+vii. Modifying the contents after reviewing by team members(9 Dec)
                     
