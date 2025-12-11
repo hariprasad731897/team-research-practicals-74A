@@ -10,4 +10,5 @@ iii . Created a R code for finding proportionality for income of each gender for
 iv . we got finalized R code for finding proportionality for income of each gender for native countries like US (1 dec)
 After discussion with professors on (1 Dec) we changed the R code to find proportionality for income of each gender only for united states.(2 dec)
 v . updated consolidated report now includes INTRODUCTION, BACKGROUND RESEARCH, VISUALISATION, ANALYSIS, EVALUATION and CONCLUSION (9 dec)
-                    
+vi . Modified the contents in Report (10 Dec)
+vii. Modifying the Final Report content after reviewing with team member and guidance from mentor in today's Drop in session(11 Dec)
